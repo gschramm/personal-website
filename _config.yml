@@ -207,9 +207,9 @@ exclude:
   - _pages/projects
   - _pages/cv
   - _pages/teaching
-  - _pages/publications
   - _pages/dropdown
   - _pages/profiles
+  #- _pages/publications
 
 keep_files:
   - CNAME
@@ -277,8 +277,8 @@ display_categories: ['stanford-stories'] # these categories will be displayed on
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Schramm]
+  first_name: [Georg]
 
   style: apa
   locale: en
