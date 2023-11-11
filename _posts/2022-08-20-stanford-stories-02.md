@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode II – Water for the Bay Area
+title: Stanford Stories II – Water for the Bay Area
 date: 2022-08-20 20:26:00-0400
 description:
 tags: stanford-stories

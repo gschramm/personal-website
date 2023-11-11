@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXIV - Winter
+title: Stanford Stories XXIV - Winter
 date: 2023-02-24 01:00:00-0400
 description:
 tags: stanford-stories

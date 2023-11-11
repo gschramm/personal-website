@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XV - Retreats and Fall Colors
+title: Stanford Stories XV - Retreats and Fall Colors
 date: 2022-11-21 01:00:00-0400
 description:
 tags: stanford-stories

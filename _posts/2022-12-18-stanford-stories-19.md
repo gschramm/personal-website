@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XIX - Stanford Medicine
+title: Stanford Stories XIX - Stanford Medicine
 date: 2022-12-18 01:00:00-0400
 description:
 tags: stanford-stories

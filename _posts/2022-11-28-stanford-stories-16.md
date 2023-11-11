@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XVI - Thanksgiving, Point Reyes and Alamere Falls
+title: Stanford Stories XVI - Thanksgiving, Point Reyes and Alamere Falls
 date: 2022-11-28 01:00:00-0400
 description:
 tags: stanford-stories

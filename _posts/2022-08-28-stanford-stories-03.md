@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode III – Gray Whale Cove
+title: Stanford Stories III – Gray Whale Cove
 date: 2022-08-28 20:26:00-0400
 description:
 tags: stanford-stories

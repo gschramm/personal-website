@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode VII - National Postdoc Appreciation Week
+title: Stanford Stories VII - National Postdoc Appreciation Week
 date: 2022-09-26 20:26:00-0400
 description:
 tags: stanford-stories

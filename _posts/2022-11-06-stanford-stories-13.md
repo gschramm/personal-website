@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XIII - Halloween
+title: Stanford Stories XIII - Halloween
 date: 2022-11-06 01:00:00-0400
 description:
 tags: stanford-stories

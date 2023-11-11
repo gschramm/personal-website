@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXXII - Commencement Weekend
+title: Stanford Stories XXXII - Commencement Weekend
 date: 2023-06-18 01:00:00-0400
 description:
 tags: stanford-stories

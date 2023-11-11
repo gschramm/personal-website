@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Episode XXXIV - Zion National Park
+title: Stanford Stories XXXIV - Zion National Park
 date: 2023-06-27 01:00:00-0400
 description:
 tags: stanford-stories
 ---
 
 After spending a night in Page, Arizona where we could witness another spectacular
-sunset at the Horseshoe Bend (see photo from last episode), the next scenic stop of
+sunset at the Horseshoe Bend (see photo from last post), the next scenic stop of
 our road trip was Zion National Park.
 Zion Canyon - located at the junction of the Colorado Plateau, Great Basin,
 and Mojave Desert regions in south western Utah - features amazing steep walls made of

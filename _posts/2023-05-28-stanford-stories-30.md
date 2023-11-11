@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXX - Death Valley
+title: Stanford Stories XXX - Death Valley
 date: 2023-05-28 01:00:00-0400
 description:
 tags: stanford-stories

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode VI – San Francisco Weekend
+title: Stanford Stories VI – San Francisco Weekend
 date: 2022-09-20 20:26:00-0400
 description:
 tags: stanford-stories

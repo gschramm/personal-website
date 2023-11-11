@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXVIII - Hearst Castle
+title: Stanford Stories XXVIII - Hearst Castle
 date: 2023-04-29 01:00:00-0400
 description:
 tags: stanford-stories

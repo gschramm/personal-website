@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode V – Backpacking in Yosemite National Park
+title: Stanford Stories V – Backpacking in Yosemite National Park
 date: 2022-09-13 20:26:00-0400
 description:
 tags: stanford-stories

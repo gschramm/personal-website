@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XIV - Milano
+title: Stanford Stories XIV - Milano
 date: 2022-11-14 01:00:00-0400
 description:
 tags: stanford-stories

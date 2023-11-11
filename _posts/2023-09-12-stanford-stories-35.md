@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXXV - A last dance on the west coast
+title: Stanford Stories XXXV - A last dance on the west coast
 date: 2023-09-12 01:00:00-0400
 description:
 tags: stanford-stories

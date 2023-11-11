@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XVII - Mount Tam
+title: Stanford Stories XVII - Mount Tam
 date: 2022-12-04 01:00:00-0400
 description:
 tags: stanford-stories

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXIX - Joshua Tree
+title: Stanford Stories XXIX - Joshua Tree
 date: 2023-05-06 01:00:00-0400
 description:
 tags: stanford-stories

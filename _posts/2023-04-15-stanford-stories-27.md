@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXVII - Whale Watching in Monterey
+title: Stanford Stories XXVII - Whale Watching in Monterey
 date: 2023-04-15 01:00:00-0400
 description:
 tags: stanford-stories
@@ -12,7 +12,7 @@ The reason for the unusually long silence is simple.
 During the last three weeks, Hélène visited me here in Stanford.
 After a bit of time in the Bay Area, we rented a car and went on
 10 day "spring-break" road trip through southern California.
-In the following episodes, I'll write about my favorite moments
+In the following Stanford Storiess, I'll write about my favorite moments
 of the trip.
 
 Our first stop brought us to Monterey - a small picturesque

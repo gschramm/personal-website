@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode X - Santa Cruz
+title: Stanford Stories X - Santa Cruz
 date: 2022-10-16 20:26:00-0400
 description:
 tags: stanford-stories

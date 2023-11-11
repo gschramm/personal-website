@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode I – Arrival
+title: Stanford Stories I – Arrival
 date: 2022-08-13 20:26:00-0400
 description:
 tags: stanford-stories

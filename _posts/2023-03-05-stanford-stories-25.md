@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXV - Snowy Mount Diablo
+title: Stanford Stories XXV - Snowy Mount Diablo
 date: 2023-03-05 01:00:00-0400
 description:
 tags: stanford-stories

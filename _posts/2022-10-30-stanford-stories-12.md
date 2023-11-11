@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XII - Earthquakes, Tunitas Creek and Berkeley
+title: Stanford Stories XII - Earthquakes, Tunitas Creek and Berkeley
 date: 2022-10-30 20:26:00-0400
 description:
 tags: stanford-stories

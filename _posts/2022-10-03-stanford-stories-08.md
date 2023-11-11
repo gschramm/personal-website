@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode VIII - Baseball
+title: Stanford Stories VIII - Baseball
 date: 2022-10-03 20:26:00-0400
 description:
 tags: stanford-stories

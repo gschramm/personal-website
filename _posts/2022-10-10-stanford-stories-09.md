@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode IX - Mission Peak
+title: Stanford Stories IX - Mission Peak
 date: 2022-10-10 20:26:00-0400
 description:
 tags: stanford-stories

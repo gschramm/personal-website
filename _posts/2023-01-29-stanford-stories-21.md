@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXI - Tailgating
+title: Stanford Stories XXI - Tailgating
 date: 2023-01-29 01:00:00-0400
 description:
 tags: stanford-stories

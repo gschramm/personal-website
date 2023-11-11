@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXXI - Yosemite Valley II
+title: Stanford Stories XXXI - Yosemite Valley II
 date: 2023-06-11 01:00:00-0400
 description:
 tags: stanford-stories

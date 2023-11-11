@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXXIII - Grand Canyon
+title: Stanford Stories XXXIII - Grand Canyon
 date: 2023-06-27 01:00:00-0400
 description:
 tags: stanford-stories

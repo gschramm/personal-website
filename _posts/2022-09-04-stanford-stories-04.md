@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode IV – College Football
+title: Stanford Stories IV – College Football
 date: 2022-09-04 20:26:00-0400
 description:
 tags: stanford-stories

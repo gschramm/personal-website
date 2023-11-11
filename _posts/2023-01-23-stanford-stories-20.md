@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XX - Water for the Bay Area II
+title: Stanford Stories XX - Water for the Bay Area II
 date: 2023-01-23 01:00:00-0400
 description:
 tags: stanford-stories

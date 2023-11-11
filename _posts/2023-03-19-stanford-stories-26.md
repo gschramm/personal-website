@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode XXVI - March Madness
+title: Stanford Stories XXVI - March Madness
 date: 2023-03-19 01:00:00-0400
 description:
 tags: stanford-stories
