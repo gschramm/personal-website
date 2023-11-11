@@ -204,6 +204,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _pages/projects
+  - _pages/cv
+  - _pages/teaching
+  - _pages/publications
+  - _pages/dropdown
+  - _pages/profiles
+
 keep_files:
   - CNAME
   - .nojekyll
