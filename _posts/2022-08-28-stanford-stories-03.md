@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories III – Gray Whale Cove
 date: 2022-08-28 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 First things first. I finally got my social security number – I only had to bike to the SSA office in Mountain View three times during the last two weeks and talk to a few “friendly” officers to make my point. All in all, administration here in the Silicon Valley is definitely not better compared to Belgium or Germany. Same hassle and same way of thinking of people working in administration 😉

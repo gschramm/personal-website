@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXXII - Commencement Weekend
 date: 2023-06-18 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 The culmination of years of hard work, dedication, and personal growth, a commencement ceremony marks a

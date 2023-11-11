@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories X - Santa Cruz
 date: 2022-10-16 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 You guessed it. Right? Another week, another hike. This time the "Stanford hikers" went on 15 km

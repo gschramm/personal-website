@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories II – Water for the Bay Area
 date: 2022-08-20 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 My second week at Stanford flew by. After moving into my cozy apartment with a small garden, I finished a project with one of our summer students. Since I arrived here, it has been constant 27 – 29°C or 80 – 85°F for my American friends. By the way, a handy trick to quickly convert between Fahrenheit and Celsius is to take the temperature in °F “subtract 30 and divide by 2” (to be more accurate, you can subtract 32 and multiply with 0.56 😉

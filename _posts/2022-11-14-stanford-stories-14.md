@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XIV - Milano
 date: 2022-11-14 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 After exactly three months in California, I got the chance to spend a week

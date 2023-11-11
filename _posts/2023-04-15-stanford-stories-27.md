@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXVII - Whale Watching in Monterey
 date: 2023-04-15 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 After almost four weeks of silence, it's finally time for new story

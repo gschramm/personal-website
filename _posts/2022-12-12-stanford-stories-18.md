@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XVIII - Christmas Party and Transverse Orientation
 date: 2022-12-12 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 Second week of December and it seems like we are already half way

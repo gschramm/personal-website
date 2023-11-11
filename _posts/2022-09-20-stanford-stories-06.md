@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories VI – San Francisco Weekend
 date: 2022-09-20 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 It is now almost 6 weeks that I have been living and working in the Bay Area. And this weekend, I finally made it to San Francisco. On Saturday, I took my bike on the Caltrain to do a lovely small cycling tour across San Francisco and the Golden Gate Bridge. Everybody I met so far that has been in San Francisco told me that it’s a great place with many things to explore. And what should I say – I guess all those persons were right.

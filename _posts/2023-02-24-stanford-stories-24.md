@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXIV - Winter
 date: 2023-02-24 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 End of February - in Germany and Belgium time for carnival or ski trips.

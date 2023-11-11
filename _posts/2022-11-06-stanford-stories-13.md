@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XIII - Halloween
 date: 2022-11-06 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 Some people love it, some people hate it.

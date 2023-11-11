@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXV - Snowy Mount Diablo
 date: 2023-03-05 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 Mount Diablo is a well-known hiking destination in the East Bay Area. At 1173m, it is the tallest peak

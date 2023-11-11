@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXII - Museum of Computer History
 date: 2023-02-05 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 "It never rains in California ...", well at least most of the time.

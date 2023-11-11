@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XX - Water for the Bay Area II
 date: 2023-01-23 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 After a few weeks in Europe visiting friends and family in Leuven, Antwerp, the Ardennes,

@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXVI - March Madness
 date: 2023-03-19 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 March Madness is a term that I didn't know until very recently.

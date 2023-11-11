@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XII - Earthquakes, Tunitas Creek and Berkeley
 date: 2022-10-30 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 Have you ever heard of the "ring of fire"? Of course, I am not referring to the song from Johnny Cash,

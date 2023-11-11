@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories I – Arrival
 date: 2022-08-13 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 After more than 1 day of traveling — some United pilots were stuck at the East Coast due to bad weather — I finally made it to my (temporary) new home in California. I was pretty exhausted after the long flight, but fortunately my new PI picked me at the airport (at 11pm) and drove me to my AirBnB.

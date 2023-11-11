@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories IX - Mission Peak
 date: 2022-10-10 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 Another week – another hike. This time, instead of starting early to avoid the midday heat, a couple of friends and I started late. Our aim was to reach the summit of Mission Peak at sunset. After a roughly 1.5h of walking uphill, we were rewarded with a spectacular sunset with cheesy red, orange and purple colors and a fantastic view on the bay. On our way down, instead of having to use our headlamps, the full moon was illuminating the path back to our cars. At the car park, we were welcomed by cheerful Indian folk music coming from a local Indian music and dance festival in the local community college baseball field.

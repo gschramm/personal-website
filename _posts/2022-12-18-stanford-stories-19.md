@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XIX - Stanford Medicine
 date: 2022-12-18 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 I cannot believe that today is already the 4th advent - time is flying.

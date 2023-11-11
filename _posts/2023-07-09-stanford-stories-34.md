@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXXIV - Zion National Park
 date: 2023-06-27 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 After spending a night in Page, Arizona where we could witness another spectacular

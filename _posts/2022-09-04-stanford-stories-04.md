@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories IV – College Football
 date: 2022-09-04 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 I guess almost all of you know that for many years already I am a pretty big fan of American football. So, obviously, seeing a college football game of the Stanford Cardinals was ranked pretty high on my bucket list. Fortunately, this Saturday, the college football season started again and, I could get tickets for the game against Colgate University. For all you that might think: “Colgate? Isn’t that a pretty big company selling dental hygiene products?” You are completely right. William Colgate – the founder of the Colgate Company – and his son James were heavily involved when Colgate University was started.

@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXIII - Super Bowl
 date: 2023-02-12 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 The second Sunday in February - for some sports fans the most important

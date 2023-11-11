@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXXIII - Grand Canyon
 date: 2023-06-27 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 Imagine a group of young Stanford postdocs, instructors, and friends embarking on an extraordinary adventure to the magnificent Grand Canyon. As a child, I had heard captivating stories about the Grand Canyon, which symbolizes the wild west and the awe-inspiring beauty of the United States. Surprisingly, the Grand Canyon wasn't initially on my list of must-see places during my time in the States. However, a close colleague and friend recently shared stunning pictures from their weekend trip to the canyon, igniting a spark of curiosity within me and four of my friends. We decided to embark on a long weekend road trip around the Grand Canyon, starting from Las Vegas.

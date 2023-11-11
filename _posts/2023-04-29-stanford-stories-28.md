@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXVIII - Hearst Castle
 date: 2023-04-29 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 "Something a little more comfortable up on the hill", this is what publishing

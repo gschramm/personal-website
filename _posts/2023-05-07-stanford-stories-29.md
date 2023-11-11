@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXIX - Joshua Tree
 date: 2023-05-06 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 After a brief stop in the hills of LA where we hiked up the Griffith Observatory,

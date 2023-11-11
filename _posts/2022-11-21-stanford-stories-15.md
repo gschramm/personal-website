@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XV - Retreats and Fall Colors
 date: 2022-11-21 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 After out conference in Milan, Italy, my first week back at Stanford started

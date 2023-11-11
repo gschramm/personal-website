@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXXI - Yosemite Valley II
 date: 2023-06-11 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 Yosemite Valley, with its captivating landscapes and natural wonders, has long been a dream

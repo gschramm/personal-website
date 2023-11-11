@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories VIII - Baseball
 date: 2022-10-03 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 After having seen games of American Football and Ice Hockey, this Friday we decided with a couple of friends to see a Baseball game of the San Francisco Giants. In contrast to American Football and Ice Hockey, Baseball to my mind is extremely boring. There is not much going on and most of the players are standing or sitting for 99% of the up to 4h game time. But as anyone will tell you, you don’t go to a Baseball game because of the sport. Instead, you go there to enjoy time with your friends and tons of junk food such as garlic fries or a Nacho head. On top of that, the Baseball stadium in San Francisco is located Downtown next to the bay which first offers a wonderful view and second allows for so-called “splash balls” home runs where the ball flies over the outfield wall into the San Francisco Bay which happened 97 times since the year 2000 when the stadium was opened. Interestingly, there were around 20 people waiting in Kayaks on the Bay outside the stadium this evening. Unfortunately, their waiting time was not rewarded this evening.

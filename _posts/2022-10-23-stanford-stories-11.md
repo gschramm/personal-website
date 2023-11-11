@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XI - Alpine Oktoberfest
 date: 2022-10-23 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 It is almost the end of Oktober. And while leaves are turning golden and red

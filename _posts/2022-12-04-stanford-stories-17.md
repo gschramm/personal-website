@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XVII - Mount Tam
 date: 2022-12-04 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 My 17th week at Stanford was less eventful than all the other weeks so far.

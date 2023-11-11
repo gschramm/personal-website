@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories XXXV - A last dance on the west coast
 date: 2023-09-12 01:00:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 It's been a minute since my last post - to be exact, it's been a good two months since I shared our adventure at Zion National Park. The reason for my silence is pretty straightforward. My time at Stanford wrapped up at the end of July, and in the meantime, I've packed up and moved back to Belgium (more on that later).

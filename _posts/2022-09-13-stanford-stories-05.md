@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories V – Backpacking in Yosemite National Park
 date: 2022-09-13 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 I guess most of you have heard the name “Yosemite National Park / Valley” and already know that it is one of the most spectacular places to visit in California. Coincidentally, I was invited to go there for a four-day backpacking trip by two friends (Beth and Anne) that I met during my bike ride to the Pulgas water temple a few weeks ago. For those of you who have never done it, backpacking means carrying all your stuff (tent, water, food for four days in a bear canister …) in a big backpack to hike and camp in the wilderness.

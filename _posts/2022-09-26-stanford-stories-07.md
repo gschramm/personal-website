@@ -3,7 +3,7 @@ layout: post
 title: Stanford Stories VII - National Postdoc Appreciation Week
 date: 2022-09-26 20:26:00-0400
 description:
-tags: stanford-stories
+categories: stanford-stories
 ---
 
 Another week passed by way too fast in the Bay Area. This week was kind of special since it was National Postdoc Appreciation Week here, meaning that a couple of special events were organized for Stanford PostDocs. Interestingly, PostDocs here suffer from very similar compared to Europe: short term project-based contracts, mediocre payment and very limited benefits. For PostDocs without kids, the situation is actually not too bad, but for those with kids or dependents life can be pretty expensive here, e.g. due to extremely high costs for child care.
