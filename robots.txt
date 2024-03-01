@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gschramm.github.io/sitemap.xml
