@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-01-03 00:00:00-0400
+date: 2016-01-15 07:59:00-0400
 inline: true
+related_posts: false
 ---
 
-The preprint of the benchmark paper on my open source GPU
-projector paralleproj is now on [arxiv](https://arxiv.org/abs/2212.12519).
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
