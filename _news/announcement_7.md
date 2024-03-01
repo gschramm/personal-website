@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-07 00:00:00-0400
+date: 2023-09-11 00:00:00-0400
 inline: true
 ---
 
-The final version of our MRM paper "Resolution enhancement, noise suppression, and joint T2* decay estimation in dual-echo sodium-23 MR imaging using anatomically-guided reconstruction" is now published and available [here](https://doi.org/10.1002/mrm.29936).
+I started a new position as [assistant Professor for Molecular Imaging and Analysis](https://gbiomed.kuleuven.be/english/research/50000677/prof-georg-schramm-new-zap-member) at KU Leuven, Belgium.

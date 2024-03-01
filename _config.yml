@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Georg
-middle_name: 
+middle_name:
 last_name: Schramm
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://gschramm.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+baseurl: /website # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -58,6 +58,7 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
+# see https://schema.org/docs/faq.html for more information
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
@@ -68,14 +69,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: gschramm # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: georg-schramm-a372099b # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: _txZ90cAAAAJ # your Google Scholar ID
+scholar_userid: 0000-0002-2251-3195 # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-2251-3195 # your ORCID ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -108,9 +109,12 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
+# For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
+# and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
+# For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
@@ -119,7 +123,6 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: #al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: #a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -132,11 +135,12 @@ related_blog_posts:
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out
-# the information below.
+# Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
   repo: gschramm/gschramm.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo_id:                       # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments             # name of the category under which discussions will be created
+  category_id:                   # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
@@ -209,7 +213,26 @@ exclude:
   - _pages/teaching
   - _pages/dropdown
   - _pages/profiles
-  #- _pages/publications
+  - _posts/2015-03-15-formatting-and-links.md
+  - _posts/2015-05-15-images.md
+  - _posts/2015-07-15-code.md
+  - _posts/2015-10-20-disqus-comments.md
+  - _posts/2015-10-20-math.md
+  - _posts/2018-12-22-distill.md
+  - _posts/2020-09-28-github-metadata.md
+  - _posts/2020-09-28-twitter.md
+  - _posts/2021-07-04-diagrams.md
+  - _posts/2022-02-01-redirect.md
+  - _posts/2022-12-10-giscus-comments.md
+  - _posts/2023-03-20-table-of-contents.md
+  - _posts/2023-03-21-tables.md
+  - _posts/2023-04-24-videos.md
+  - _posts/2023-04-25-audios.md
+  - _posts/2023-04-25-sidebar-table-of-contents.md
+  - _posts/2023-05-12-custom-blockquotes.md
+  - _posts/2023-07-04-jupyter-notebook.md
+  - _posts/2023-07-12-post-bibliography.md
+  - _posts/2023-12-12-tikzjax.md
 
 keep_files:
   - CNAME
@@ -219,7 +242,6 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
-  - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -284,7 +306,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papers_gs.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -308,7 +330,7 @@ enable_publication_badges:
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+filtered_bibtex_keywords: [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3  # leave blank to always show all authors
@@ -333,6 +355,8 @@ external_links:
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
 
+# MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
+#   convert -version
 imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
@@ -346,16 +370,9 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
+    - ".gif"
   output_formats:
-    webp: "-resize 800x"
-
-# -----------------------------------------------------------------------------
-# Jekyll Diagrams
-# -----------------------------------------------------------------------------
-
-jekyll-diagrams:
-    # configuration, see https://github.com/zhustec/jekyll-diagrams.
-    # feel free to comment out this section if not using jekyll diagrams.
+    webp: "-quality 85"
 
 
 # -----------------------------------------------------------------------------
@@ -363,20 +380,17 @@ jekyll-diagrams:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:    false  # enables google analytics
-enable_cronitor_analytics: false  # enables cronitor RUM analytics
+enable_cronitor_analytics:  false  # enables cronitor RUM analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
-                                   # for each section titles on pages and posts
+enable_tooltips:            false  # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       true  # enables displaying social links in the
-                                   # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
-                                   # multiple categories
+enable_navbar_social:       false  # enables displaying social links in the navbar on the about page
+enable_project_categories:  true   # enables categorization of projects into multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         false   # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions

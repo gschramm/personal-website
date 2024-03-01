@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-11-07 00:00:00-0400
+date: 2023-01-03 00:00:00-0400
 inline: true
 ---
 
-Our paper "Resolution enhancement, noise suppression, and joint T2* decay estimation in dual-echo sodium-23 MR imaging using anatomically-guided reconstruction" is accepted for publication in Magnetic Resonance and Medicine and freely available on [arxiv](https://arxiv.org/abs/2311.03116).
+The preprint of the benchmark paper on my open source GPU
+projector paralleproj is now on [arxiv](https://arxiv.org/abs/2212.12519).
